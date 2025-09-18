@@ -1,1 +1,1 @@
-print("This is app file, and updated in the remote.")
+print("This is app file")
